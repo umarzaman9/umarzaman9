@@ -5,7 +5,6 @@
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50">
   <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50">
   <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif?200w.webp" width="50">
-  <img src="https://media.giphy.com/media/SsCYf6DRFJrOpP0IoM/giphy.gif" width="70">
   <p>
 </div> 
 
