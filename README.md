@@ -2,7 +2,7 @@
 <div>
   <h3> 💻 Languages and Tools </h3>
   <p>
-<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="50">
+<img src="https://media.giphy.com/media/iPj5oRtJzQGxwzuCKV/giphy.gif" width="50">
     <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="50">
     <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50">
   <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50">
