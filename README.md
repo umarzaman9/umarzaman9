@@ -2,7 +2,7 @@
 <div>
   <h3> 💻 Languages and Tools </h3>
   <p>
-<img src="https://media.giphy.com/media/iPj5oRtJzQGxwzuCKV/giphy.gif" width="50">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
     <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="50">
     <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50">
   <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50">
